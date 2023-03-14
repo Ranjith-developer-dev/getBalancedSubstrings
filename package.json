@@ -1,0 +1,26 @@
+{
+  "name": "getbalancedsubstrings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjithDev06/getBalancedSubstrings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjithDev06/getBalancedSubstrings/issues"
+  },
+  "homepage": "https://github.com/RanjithDev06/getBalancedSubstrings#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "readline": "^1.3.0"
+  }
+}
